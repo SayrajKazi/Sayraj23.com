@@ -1,10 +1,7 @@
 {
   "homepage": "https://SayrajKazi.github.io/website",
-  "name": "my-app",
-<<<<<<< HEAD
+  "name": "website",
   
-=======
->>>>>>> 4dbf0d6972fa9408ae2598bd32c315ded1161fca
   "version": "0.1.0",
   
   "private": true,

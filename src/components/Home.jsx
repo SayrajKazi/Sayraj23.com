@@ -36,8 +36,5 @@ const Home = () => {
     </div>
   );
 };
-<li className='py-6 text-4xl'>
-            {' '}
-            <a href='/about'>About </a>
-          </li>
+
 export default Home;
