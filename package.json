@@ -1,6 +1,6 @@
 {
-  "homepage": "https://SayrajKazi.github.io/website",
-  "name": "website",
+  
+  "name": "my-app",
   
   "version": "0.1.0",
   
@@ -44,8 +44,7 @@
   },
   
   "scripts": {
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build", 
+  
     
   "start": "react-scripts start",
   
