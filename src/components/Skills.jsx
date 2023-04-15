@@ -15,6 +15,9 @@ import Mongo from '../Assets/mongo.png';
 import Java from '../Assets/java.png';
 import Sql from '../Assets/sql.png';
 import C from '../Assets/c.png';
+import cplus from '../Assets/cplus.png';
+import datastruct from '../Assets/datastruct.png';
+import springboot from '../Assets/spring.png';
 const Skills =() => {
     return (
         <div name='skills' className='w-full h-screen bg-[#1a0136] text-gray-300'>
@@ -67,8 +70,16 @@ const Skills =() => {
                     <p className='my-4'>SQL</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={C} alt="C icon" />
-                    <p className='my-4'>C</p>
+                    <img className='w-20 mx-auto' src={cplus} alt="C icon" />
+                    <p className='my-4'>C++</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-40 mx-auto' src={datastruct} alt="Data icon" />
+                    <p className='my-4'>Data Structures</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-40 mx-auto' src={springboot} alt="Spring icon" />
+                    <p className='my-4'>SpringBoot</p>
                 </div>
             </div>
         </div>

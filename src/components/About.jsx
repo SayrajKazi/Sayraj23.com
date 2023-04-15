@@ -12,7 +12,7 @@ const About = () => {
           </div>
           <div></div>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+          <div className='max-w-[1000px] w-full h-80 grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-3xl font-bold'>
               <p> Bachelors in CS from DePaul University 2022</p>
             </div>
@@ -20,9 +20,38 @@ const About = () => {
               <p> I am passionate about problem solving. I want to utilize technology to improve the lives of others. 
                 I am currently looking for opportunities to grow as software engineer and work on building softwares that improves us as humans.</p>  
             </div>
+   
+          
           </div>
+          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 text-xl text-zinc-300 font-extralight '>
+         
+            <h2 classname='text-red-700'>  Front-End</h2>
+            <span>
+              ReactJS, Angular, Redux, HTML, CSS, React Native, Flutter, NPM,
+              Ionic, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+            </span>
+          
+   
+            <h2>Back-End</h2>
+            <span>
+              NodeJS, Java Spring,  ExpressJS,
+              MySQL, MongoDB, DynamoDB, Blockchain, AWS S3, MS SQL
+            </span>
+         
+      
+            <h2>Languages</h2>
+            <span>JavaScript, Java, Python, Scala, C, C++, HTML</span>
+     
+   
+          
+          </div>
+          
       </div>
+      
+      
     </div>
+    
+    
   );
 };
 

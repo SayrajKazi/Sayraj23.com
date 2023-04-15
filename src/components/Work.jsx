@@ -2,6 +2,8 @@ import React from 'react';
 
 import workout from '../Assets/workout.png';
 import Smart from '../Assets/smart.jpeg';
+import Jobin from '../Assets/Jobin.png';
+import Webshop from '../Assets/webshop.png';
 const Work = () => {
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#1a0136]'>
@@ -73,7 +75,62 @@ const Work = () => {
               </div>
             </div>
           </div>
-           
+          <div
+            style={{ backgroundImage: `url(${Jobin})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                JobInventory
+              </span>
+              <p>
+                 ReactJS + Java Spring
+              </p>
+              <div className='pt-8 text-center'>
+                
+                <a href='https://github.com/SayrajKazi/JobIn--Find-Jobs-Hire-Talent-and-learn-new-Skills-'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Code
+                  </button>
+                </a>
+                <a href='https://drive.google.com/file/d/1uGn_MR9HzkuQA-1RS9Tgq6CBIj7WZDKg/view?usp=sharing'  >
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    demo2 
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Webshop})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                WebShop with Stripe payments
+              </span>
+              <p>
+                 ReactJS + CommerceJs
+              </p>
+              <div className='pt-8 text-center'>
+                
+                <a href='https://github.com/SayrajKazi/Webshop'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    Code
+                  </button>
+                </a>
+                <a href='https://drive.google.com/file/d/1pmSq2u1lfYBMD8R-oE_6rUyxPhahlCpW/view?usp=sharing'  >
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    demo2 
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
           </div>
 
         </div>

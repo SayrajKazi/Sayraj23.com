@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.866a9866.css",
+    "main.js": "/static/js/main.9cdf59fe.js",
+    "static/media/datastruct.png": "/static/media/datastruct.e47f2086809e476dd6dd.png",
+    "static/media/workout.png": "/static/media/workout.cfe6e0afb6838ced0774.png",
+    "static/media/webshop.png": "/static/media/webshop.2ad8f750945642ae4923.png",
+    "static/media/logo.png": "/static/media/logo.2166ec6442829b78dbd9.png",
+    "static/media/smart.jpeg": "/static/media/smart.c74f928b23d3e7bce825.jpeg",
+    "static/media/java.png": "/static/media/java.9f9aec916269310b3a1a.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Jobin.png": "/static/media/Jobin.6bb8e904037a2579e9e4.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/spring.png": "/static/media/spring.df25efeb9e2273d98840.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/c.png": "/static/media/c.1a1924f3457730cd9706.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.866a9866.css.map": "/static/css/main.866a9866.css.map",
+    "main.9cdf59fe.js.map": "/static/js/main.9cdf59fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.866a9866.css",
+    "static/js/main.9cdf59fe.js"
+  ]
+}
