@@ -18,6 +18,7 @@ const About = () => {
             </div>
             <div>
               <p> I am passionate about problem solving. I want to utilize technology to improve the lives of others. 
+            
                 I am currently looking for opportunities to grow as software engineer and work on building softwares that improves us as humans.</p>  
             </div>
    
